@@ -38,8 +38,6 @@ setup(
         ],
     },
     install_requires=[
-        'JPype',
-        'charade',
     ],
     author='Misja Hoebe',
     author_email='misja.hoebe@gmail.com',
